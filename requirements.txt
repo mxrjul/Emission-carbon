@@ -1,4 +1,4 @@
-tensorflow-cpu==2.12.0
+tensorflow-cpu==2.11.0
 streamlit
 scikit-learn
 matplotlib
