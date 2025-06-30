@@ -17,9 +17,6 @@ GRU (Gated Recurrent Unit) adalah algoritma deep learning berbasis Recurrent Neu
 # Menambahkan Libary Dan Mengimport Dataset
 """
 
-# Menginstal dua library Python, yaitu pycountry dan pycountry-convert, yang akan digunakan untuk keperluan mengidentifikasi data negara dan mengonversinya ke dalam informasi benua.
-!pip install pycountry pycountry-convert
-
 # Menginstall Library yang dibutuhkan
 import pandas as pd
 import numpy as np
