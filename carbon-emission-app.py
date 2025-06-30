@@ -1,5 +1,3 @@
-pip install streamlit tensorflow scikit-learn pycountry pycountry-convert matplotlib pandas
-
 import streamlit as st
 import pandas as pd
 import numpy as np
